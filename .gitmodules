@@ -1,3 +1,3 @@
 [submodule "private-submodule-test"]
 	path = private-submodule-test
-	url = git@github.com:convox/private-submodule-test.git
+	url = https://github.com/convox/private-submodule-test.git
